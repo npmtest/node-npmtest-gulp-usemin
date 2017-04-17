@@ -1,7 +1,7 @@
 # test coverage for  [gulp-usemin (v0.3.28)](https://github.com/zont/gulp-usemin#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-gulp-usemin.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gulp-usemin) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gulp-usemin.svg)](https://travis-ci.org/npmtest/node-npmtest-gulp-usemin)
 #### Replaces references to non-optimized scripts or stylesheets into a set of HTML files (or any templates/views).
 
-[![NPM](https://nodei.co/npm/gulp-usemin.png?downloads=true)](https://www.npmjs.com/package/gulp-usemin)
+[![NPM](https://nodei.co/npm/gulp-usemin.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/gulp-usemin)
 
 | git-branch : | [alpha](https://github.com/npmtest/node-npmtest-gulp-usemin/tree/alpha)|
 |--:|:--|
@@ -9,11 +9,17 @@
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-gulp-usemin/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-gulp-usemin/build/test-report.html)|
 | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-gulp-usemin/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-gulp-usemin/tree/gh-pages/build)|
 
-[![istanbul-coverage](https://npmtest.github.io/node-npmtest-gulp-usemin/build/screenCapture.buildCustomOrg.browser.coverage.html.png)](https://npmtest.github.io/node-npmtest-gulp-usemin/build/coverage.html/index.html)
+- [https://npmtest.github.io/node-npmtest-gulp-usemin/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-gulp-usemin/build/coverage.html/index.html)
 
-[![test-report](https://npmtest.github.io/node-npmtest-gulp-usemin/build/screenCapture.buildCustomOrg.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmtest%252Fnode-npmtest-gulp-usemin%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-gulp-usemin/build/test-report.html)
+[![istanbul-coverage](https://npmtest.github.io/node-npmtest-gulp-usemin/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fcoverage.lib.html.png)](https://npmtest.github.io/node-npmtest-gulp-usemin/build/coverage.html/index.html)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-gulp-usemin/build/screenCapture.buildApidoc.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmdoc%252Fnode-npmdoc-gulp-usemin%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-gulp-usemin/build/apidoc.html)
+- [https://npmtest.github.io/node-npmtest-gulp-usemin/build/test-report.html](https://npmtest.github.io/node-npmtest-gulp-usemin/build/test-report.html)
+
+[![test-report](https://npmtest.github.io/node-npmtest-gulp-usemin/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-gulp-usemin/build/test-report.html)
+
+- [https://npmdoc.github.io/node-npmdoc-gulp-usemin/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-gulp-usemin/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-gulp-usemin/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-gulp-usemin/build/apidoc.html)
 
 ![npmPackageListing](https://npmtest.github.io/node-npmtest-gulp-usemin/build/screenCapture.npmPackageListing.svg)
 
@@ -27,8 +33,7 @@
 
 {
     "author": {
-        "name": "Alexander Zonov",
-        "email": "zont@pochta.ru"
+        "name": "Alexander Zonov"
     },
     "bugs": {
         "url": "https://github.com/zont/gulp-usemin/issues"
@@ -72,13 +77,11 @@
     "main": "index.js",
     "maintainers": [
         {
-            "name": "alexander.zonov",
-            "email": "zont@pochta.ru"
+            "name": "alexander.zonov"
         }
     ],
     "name": "gulp-usemin",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git://github.com/zont/gulp-usemin.git"
