@@ -1,4 +1,7 @@
-# test coverage for  [gulp-usemin (v0.3.28)](https://github.com/zont/gulp-usemin#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-gulp-usemin.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gulp-usemin) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gulp-usemin.svg)](https://travis-ci.org/npmtest/node-npmtest-gulp-usemin)
+# npmtest-gulp-usemin
+
+#### basic test coverage for  [gulp-usemin (v0.3.28)](https://github.com/zont/gulp-usemin#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-gulp-usemin.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-gulp-usemin) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-gulp-usemin.svg)](https://travis-ci.org/npmtest/node-npmtest-gulp-usemin)
+
 #### Replaces references to non-optimized scripts or stylesheets into a set of HTML files (or any templates/views).
 
 [![NPM](https://nodei.co/npm/gulp-usemin.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/gulp-usemin)
@@ -7,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-gulp-usemin/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-gulp-usemin/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-gulp-usemin/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-gulp-usemin/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-gulp-usemin/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-gulp-usemin/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-gulp-usemin/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-gulp-usemin/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-gulp-usemin/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-gulp-usemin/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-gulp-usemin/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-gulp-usemin/build/coverage.html/index.html)
 
@@ -89,7 +92,8 @@
     "scripts": {
         "test": "gulp"
     },
-    "version": "0.3.28"
+    "version": "0.3.28",
+    "bin": {}
 }
 ```
 
